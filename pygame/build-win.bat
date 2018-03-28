@@ -1,0 +1,1 @@
+py -3.4 -m py2exe.build_exe snake.py -i pygame -b 0 --optimize --compress
